@@ -5,7 +5,7 @@
 此外，万能头文件：\(仅适用于gcc编译器\)
 
 ```cpp
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 ```
 
 

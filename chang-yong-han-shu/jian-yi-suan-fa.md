@@ -17,11 +17,11 @@ sort(v.begin()+3,v.end(),less<int>());      //从v中第3个元素到最后一�
 
 在使用前应确保有序，默认情况下函数都默认为从大到小的顺序进行二分搜索。查找即插入，并且以下插入指的都是前插。
 
-**lower\_bound\(**RandomIt first, RandomIt last, Compare comp**\)**
+**lower\_bound\(**RandomIt first, RandomIt last,Obj ,Compare comp**\)**
 
 返回一个迭代器，指向可插入的第一个位置。
 
-**upper\_bound\(**RandomIt first, RandomIt last, Compare comp**\)**
+**upper\_bound\(**RandomIt first, RandomIt last, Obj,Compare comp**\)**
 
 返回一个迭代器，指向可插入的最后一个位置。
 

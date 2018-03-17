@@ -52,3 +52,24 @@ int main(){
 
 需要注意的是，字符串数组不能使用`cin`输入输出，而**string**可以，正常情况下`cin`输入的字符串以空格分割，若想输入一行字符串，使用头文件`iostream`里的 `getline()`
 
+#### 转换
+
+String到从CString的转换：
+
+```cpp
+string s;
+cin >> s;
+const char * = s.c_str();
+```
+
+#### 构造
+
+```cpp
+string(const char *s);    //用c字符串s初始化
+string(int n,char c);     //用n个字符c初始化
+```
+
+#### 
+
+
+

@@ -12,6 +12,7 @@
 * [经典算法](jing-dian-suan-fa.md)
   * [基础数学](ji-chu-shu-xue.md)
     * [最大公约数](ji-chu-shu-xue/zui-da-gong-yue-shu.md)
+    * [质数和因数](ji-chu-shu-xue/zhi-yin-shu.md)
   * [动态规划](jing-dian-suan-fa/dong-tai-gui-hua.md)
     * [01背包](jing-dian-suan-fa/dong-tai-gui-hua/wan-quan-bei-bao.md)
     * [完全背包](jing-dian-suan-fa/dong-tai-gui-hua/bei-bao-wen-ti.md)
@@ -25,5 +26,4 @@
 * [常用函数](chang-yong-han-shu.md)
   * [字符串处理](chang-yong-han-shu/zi-fu-chuan-chu-li.md)
   * [简易算法](chang-yong-han-shu/jian-yi-suan-fa.md)
-* [数学公式](shu-xue-gong-shi.md)
 

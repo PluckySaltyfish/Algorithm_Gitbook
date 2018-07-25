@@ -8,13 +8,13 @@
 
 ```cpp
 int V,E;
-    int edge[MAX_V][MAX_V];
-    scanf("%d %d",&V,&E);
-    for (int i = 0; i <E ; ++i) {
-        int s,t,cost;
-        scanf("%d %d %d",&s,&t,&cost);
-        edge[s][t]=cost;
-    }
+int edge[MAX_V][MAX_V];
+scanf("%d %d",&V,&E);
+for (int i = 0; i <E ; ++i) {
+    int s,t,cost;
+    scanf("%d %d %d",&s,&t,&cost);
+    edge[s][t]=cost;
+}
 ```
 
 #### 邻接表

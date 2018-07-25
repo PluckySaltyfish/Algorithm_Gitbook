@@ -23,6 +23,7 @@
     * [图的表示](tu-lun/tu-de-biao-shi.md)
     * [最短路径](tu-lun/zui-duan-lu-jing.md)
     * [最小生成树](tu-lun/zui-xiao-sheng-cheng-shu.md)
+  * [排序](pai-xu.md)
 * [常用函数](chang-yong-han-shu.md)
   * [字符串处理](chang-yong-han-shu/zi-fu-chuan-chu-li.md)
   * [简易算法](chang-yong-han-shu/jian-yi-suan-fa.md)

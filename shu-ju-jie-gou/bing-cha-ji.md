@@ -26,9 +26,9 @@ void unite(int x,int y){
     y = find(y);
     if(x==y)return;
     if(rk[x]<rk[y]){
-        par[x] =y;
+        par[x] = y;
     }else{
-        par[y]=x;
+        par[y] = x;
         if(rk[x]==rk[y])rk[x]++;
     }
 }

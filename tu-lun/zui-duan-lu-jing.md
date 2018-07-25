@@ -7,7 +7,7 @@
 ```cpp
 void dijkstra(int s){
     priority_queue<P,vector<P>,greater<P>>que;
-    fill(d,d+V,INF);
+    fill(d,d+V,INF);//d[i]表示i点到s点的最短距离
     d[s]=0;
     que.push(P(0,s));
 

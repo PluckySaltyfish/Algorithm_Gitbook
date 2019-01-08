@@ -9,6 +9,7 @@
   * [映射map](shu-ju-jie-gou/ying-she-map.md)
   * [集合set](shu-ju-jie-gou/ji-he-set.md)
   * [并查集](shu-ju-jie-gou/bing-cha-ji.md)
+  * [树状数组](shu-ju-jie-gou/shu-zhuang-shu-zu.md)
 * [经典算法](jing-dian-suan-fa.md)
   * [基础数学](ji-chu-shu-xue.md)
     * [最大公约数](ji-chu-shu-xue/zui-da-gong-yue-shu.md)

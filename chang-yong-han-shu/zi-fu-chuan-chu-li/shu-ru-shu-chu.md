@@ -8,7 +8,9 @@
 freopen("input.txt","r",stdin);
 ```
 
-### 迭代器正向遍历
+### 迭代器
+
+#### 正向遍历
 
 ```cpp
 vector<int>v;
@@ -27,6 +29,10 @@ for(map<int,int>::reverse_iterator it =m1.rbegin();it!=m1.rend();it++){
     cout it->second <<endl;
 }
 ```
+
+### 位运算
+
+
 
 
 

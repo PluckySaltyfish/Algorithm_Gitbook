@@ -30,9 +30,11 @@ for(map<int,int>::reverse_iterator it =m1.rbegin();it!=m1.rend();it++){
 }
 ```
 
-### 位运算
+#### 万能头文件
 
+仅适用于gcc编译器
 
+> \#include &lt;bits/stdc++.h&gt;
 
 
 

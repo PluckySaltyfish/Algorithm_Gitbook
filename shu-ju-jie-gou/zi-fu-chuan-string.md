@@ -54,12 +54,15 @@ int main(){
 
 #### 转换
 
-String到从CString的转换：
-
 ```cpp
-string s;
-cin >> s;
-const char * = s.c_str();
+//转换为string
+string s = to_string(a);
+
+//string转化为int
+a = stoi(s)
+//string转化为cstring
+s.c_str()
+//string转化为int
 ```
 
 #### 构造

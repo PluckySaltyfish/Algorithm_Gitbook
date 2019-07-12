@@ -6,6 +6,13 @@
 
 vector是STL提供的一个容器，能够存放任意类型的动态数组，能够增加和压缩数据。
 
+#### 初始化
+
+```cpp
+vector<int> v = vector<int>(len)
+vector<int> v = vector<int>(len,0)
+```
+
 #### 静态方法
 
 **.push\_back\(\) **压如一个数据
@@ -42,8 +49,4 @@ v.insert(v.begin()+8,20);        //在v中的第8位插入20
 **.resize\(\)** 重新定义大小
 
 **.erase\(\)**  删除指定迭代器位置的数据
-
-
-
-
 

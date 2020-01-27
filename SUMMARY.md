@@ -20,6 +20,7 @@
     * [多重背包](jing-dian-suan-fa/dong-tai-gui-hua/duo-zhong-bei-bao.md)
     * [LIS](jing-dian-suan-fa/dong-tai-gui-hua/lis.md)
     * [LCS](lcs.md)
+    * [LPS](jing-dian-suan-fa/dong-tai-gui-hua/lps.md)
   * [图论](tu-lun.md)
     * [图的表示](tu-lun/tu-de-biao-shi.md)
     * [最短路径](tu-lun/zui-duan-lu-jing.md)
